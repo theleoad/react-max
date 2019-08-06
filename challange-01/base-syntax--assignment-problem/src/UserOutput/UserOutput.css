@@ -1,0 +1,8 @@
+.UserOutput p span {
+  font-weight: bold;
+}
+
+.UserOutput p:nth-child(2) {
+  font-size: 10px;
+  color: red;
+}
